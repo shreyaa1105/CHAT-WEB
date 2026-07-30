@@ -239,7 +239,7 @@ body{
     margin:40px auto;
     text-align:center;
     position: absolute;
-    bottom:-110px;
+    bottom:-90;
     left:30px;
 
 }
@@ -282,12 +282,6 @@ body{
         width:230px;
         margin:10px auto;
     }
-
-   
-
-   
-
-   
 
     .content h2{
         font-size:38px;
